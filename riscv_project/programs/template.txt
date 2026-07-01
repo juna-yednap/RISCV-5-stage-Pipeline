@@ -1,0 +1,12 @@
+// template.txt - write one 32-bit RISC-V instruction per line, as an
+// 8-digit hex value (machine code, not assembly). // comments and blank
+// lines are ignored by $readmemh.
+//
+// You need machine code here, not assembly mnemonics - hand-assemble it,
+// use an online RV32I assembler, or riscv64-unknown-elf-as + objdump if
+// you have the toolchain installed. Example line:
+// 00500093   (this is: addi x1, x0, 5)
+
+00000013
+00000013
+00000013

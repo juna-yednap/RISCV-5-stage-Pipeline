@@ -1,0 +1,5 @@
+// GOAL: store a value to memory, then load it back.
+// EXPECTED FINAL RESULT: x2 = 42 (0x0000002a), same value written by the sw.
+02a00093   // addi x1,x0,42
+00102023   // sw   x1,0(x0)
+00002103   // lw   x2,0(x0)

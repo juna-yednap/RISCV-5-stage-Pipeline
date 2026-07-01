@@ -1,0 +1,2 @@
+// mem_store_load.txt expected final register state
+x2=42

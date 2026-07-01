@@ -1,0 +1,141 @@
+WARNING: /home/anuj/Single-Cycle-RISCV-Core/hi/riscv_project/tb/instr_mem.v:27: $readmemh(/home/anuj/Single-Cycle-RISCV-Core/hi/riscv_project/programs/template.txt): Not enough words in the file for the requested range [0:255].
+[instr_mem] loaded program: /home/anuj/Single-Cycle-RISCV-Core/hi/riscv_project/programs/template.txt
+VCD info: dumpfile waves/riscv_cpu_tb.vcd opened for output.
+t=15000  pc=00000000  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=25000  pc=00000004  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=35000  pc=00000008  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=45000  pc=0000000c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=55000  pc=00000010  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=65000  pc=00000014  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=75000  pc=00000018  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=85000  pc=0000001c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=95000  pc=00000020  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=105000  pc=00000024  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=115000  pc=00000028  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=125000  pc=0000002c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=135000  pc=00000030  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=145000  pc=00000034  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=155000  pc=00000038  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=165000  pc=0000003c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=175000  pc=00000040  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=185000  pc=00000044  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=195000  pc=00000048  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=205000  pc=0000004c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=215000  pc=00000050  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=225000  pc=00000054  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=235000  pc=00000058  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=245000  pc=0000005c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=255000  pc=00000060  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=265000  pc=00000064  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=275000  pc=00000068  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=285000  pc=0000006c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=295000  pc=00000070  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=305000  pc=00000074  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=315000  pc=00000078  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=325000  pc=0000007c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=335000  pc=00000080  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=345000  pc=00000084  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=355000  pc=00000088  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=365000  pc=0000008c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=375000  pc=00000090  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=385000  pc=00000094  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=395000  pc=00000098  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=405000  pc=0000009c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=415000  pc=000000a0  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=425000  pc=000000a4  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=435000  pc=000000a8  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=445000  pc=000000ac  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=455000  pc=000000b0  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=465000  pc=000000b4  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=475000  pc=000000b8  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=485000  pc=000000bc  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=495000  pc=000000c0  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=505000  pc=000000c4  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=515000  pc=000000c8  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=525000  pc=000000cc  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=535000  pc=000000d0  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=545000  pc=000000d4  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=555000  pc=000000d8  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=565000  pc=000000dc  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=575000  pc=000000e0  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=585000  pc=000000e4  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=595000  pc=000000e8  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=605000  pc=000000ec  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=615000  pc=000000f0  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=625000  pc=000000f4  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=635000  pc=000000f8  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=645000  pc=000000fc  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=655000  pc=00000100  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=665000  pc=00000104  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=675000  pc=00000108  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=685000  pc=0000010c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=695000  pc=00000110  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=705000  pc=00000114  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=715000  pc=00000118  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=725000  pc=0000011c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=735000  pc=00000120  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=745000  pc=00000124  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=755000  pc=00000128  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=765000  pc=0000012c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=775000  pc=00000130  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=785000  pc=00000134  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=795000  pc=00000138  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=805000  pc=0000013c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=815000  pc=00000140  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=825000  pc=00000144  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=835000  pc=00000148  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=845000  pc=0000014c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=855000  pc=00000150  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=865000  pc=00000154  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=875000  pc=00000158  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=885000  pc=0000015c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=895000  pc=00000160  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=905000  pc=00000164  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=915000  pc=00000168  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=925000  pc=0000016c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=935000  pc=00000170  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=945000  pc=00000174  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=955000  pc=00000178  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=965000  pc=0000017c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=975000  pc=00000180  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=985000  pc=00000184  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=995000  pc=00000188  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+t=1005000  pc=0000018c  instr_result=00000000  mem_write=0  data_addr=00000000  write_data=00000000  read_data=00000000
+[tb] reached max cycle count (100), stopping.
+===================================================================
+ final register file contents (x0..x31)
+===================================================================
+  x0  = 0            (0x00000000)
+  x1  = 0            (0x00000000)
+  x2  = 0            (0x00000000)
+  x3  = 0            (0x00000000)
+  x4  = 0            (0x00000000)
+  x5  = 0            (0x00000000)
+  x6  = 0            (0x00000000)
+  x7  = 0            (0x00000000)
+  x8  = 0            (0x00000000)
+  x9  = 0            (0x00000000)
+  x10 = 0            (0x00000000)
+  x11 = 0            (0x00000000)
+  x12 = 0            (0x00000000)
+  x13 = 0            (0x00000000)
+  x14 = 0            (0x00000000)
+  x15 = 0            (0x00000000)
+  x16 = 0            (0x00000000)
+  x17 = 0            (0x00000000)
+  x18 = 0            (0x00000000)
+  x19 = 0            (0x00000000)
+  x20 = 0            (0x00000000)
+  x21 = 0            (0x00000000)
+  x22 = 0            (0x00000000)
+  x23 = 0            (0x00000000)
+  x24 = 0            (0x00000000)
+  x25 = 0            (0x00000000)
+  x26 = 0            (0x00000000)
+  x27 = 0            (0x00000000)
+  x28 = 0            (0x00000000)
+  x29 = 0            (0x00000000)
+  x30 = 0            (0x00000000)
+  x31 = 0            (0x00000000)
+===================================================================
+[tb] register dump written: /home/anuj/Single-Cycle-RISCV-Core/hi/riscv_project/regdumps/template.txt and /home/anuj/Single-Cycle-RISCV-Core/hi/riscv_project/regdumps/template.hex

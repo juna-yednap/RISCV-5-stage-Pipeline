@@ -1,0 +1,9 @@
+// GOAL: basic if/else. if (x1 == x2) x3 = 1; else x3 = 2;
+// x1 = 7, x2 = 9, so x1 != x2 and the else path should execute.
+// EXPECTED FINAL RESULT: x3 = 2
+00700093   // addi x1,x0,7
+00900113   // addi x2,x0,9
+00208463   // beq  x1,x2,8
+00200193   // addi x3,x0,2
+0080006f   // jal  x0,8
+00100193   // addi x3,x0,1
